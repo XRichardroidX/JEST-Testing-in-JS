@@ -23,17 +23,21 @@ describe('UserInterface', () => {
   it('Add one new task to the to-do list', () => {
     UserInterface.addTask(tasksObject);
     const mainChildLength = document.querySelector('main').children.length;
-    // console.log(document.querySelector('main').children.length);
     expect(mainChildLength).toBe(2);
   });
 
   it('Add another new task to the to-do list', () => {
-    // const tasksObject = new Tasks(2, 'Soccer', false);
     UserInterface.addTask(tasksObject);
     const mainChildLength = document.querySelector('main').children.length;
     expect(mainChildLength).toBe(3);
   });
 
+  it('Edit a previous task in the to-do list', () => {
+  UserInterface.editTask(index, tasksObject);
+  const mainChildLength = document.querySelector('main').children.length;
+  expect(mainChildLength).toBe(3);
+  } );
+  
   it('Remove one task form list', () => {
     const itemContainer = document.querySelector('.task-item');
     UserInterface.deleteTask(itemContainer);
