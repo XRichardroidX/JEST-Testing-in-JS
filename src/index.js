@@ -1,4 +1,3 @@
-import _ from 'lodash';
 import './style.css';
 import Tasks from './modules/tasks.js';
 import Storage from './modules/storage.js';
