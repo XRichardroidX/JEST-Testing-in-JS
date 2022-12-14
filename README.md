@@ -168,6 +168,12 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [@twitterhandle](https://twitter.com/RichardroiDX)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/richard-oguzie-ibeh-b4a975231)
 
+👤 **Author2**
+
+- GitHub: [@githubhandle](https://github.com/SAINTILLION)
+- Twitter: [@twitterhandle](https://twitter.com/McsaintEbolom)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mcsaint-ebolom-b1033823a)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES
