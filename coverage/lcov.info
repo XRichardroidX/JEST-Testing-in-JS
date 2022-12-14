@@ -1,5 +1,5 @@
 TN:
-SF:src/modules/storage.js
+SF:src\modules\storage.js
 FN:2,(anonymous_0)
 FN:10,(anonymous_1)
 FN:16,(anonymous_2)
@@ -41,7 +41,7 @@ BRF:4
 BRH:4
 end_of_record
 TN:
-SF:src/modules/tasks.js
+SF:src\modules\tasks.js
 FN:2,(anonymous_0)
 FNF:1
 FNH:1
@@ -55,7 +55,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:src/modules/userinterface.js
+SF:src\modules\userinterface.js
 FN:2,(anonymous_0)
 FN:23,(anonymous_1)
 FN:28,(anonymous_2)
@@ -64,7 +64,7 @@ FNF:4
 FNH:2
 FNDA:2,(anonymous_0)
 FNDA:0,(anonymous_1)
-FNDA:2,(anonymous_2)
+FNDA:1,(anonymous_2)
 FNDA:0,(anonymous_3)
 DA:2,1
 DA:3,2
@@ -74,7 +74,7 @@ DA:23,1
 DA:24,0
 DA:25,0
 DA:28,1
-DA:29,2
+DA:29,1
 DA:32,1
 DA:33,0
 DA:34,0
