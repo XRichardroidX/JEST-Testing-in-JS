@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1671024677013" clover="3.2.0">
-  <project timestamp="1671024677013" name="All files">
+<coverage generated="1671090118472" clover="3.2.0">
+  <project timestamp="1671090118472" name="All files">
     <metrics statements="35" coveredstatements="25" conditionals="4" coveredconditionals="4" methods="10" coveredmethods="7" elements="49" coveredelements="36" complexity="0" loc="35" ncloc="35" packages="1" files="3" classes="3"/>
     <file name="storage.js" path="C:\Users\Richard\Desktop\JEST-Testing-in-JS\src\modules\storage.js">
       <metrics statements="19" coveredstatements="14" conditionals="4" coveredconditionals="4" methods="5" coveredmethods="4"/>
