@@ -57,17 +57,17 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Add test using Jest] <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**[Add_test_using_Jest]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+> This is a todo list written in JavaScript with scalability via test like Jest coverage for easier development by new developers/Contributors.
 
 <details>
   <summary>Client</summary>
@@ -94,11 +94,11 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+> This todo list has the following features
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[Add_to_list]**
+- **[Delete_from_list]**
+- **[Clear_all_completed_list]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -108,91 +108,51 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://xrichardroidx.github.io/JEST-Testing-in-JS)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
-## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
-
-To get a local copy up and running, follow these steps.
-
 ### Prerequisites
 
-In order to run this project you need:
+- Have a local version control like Git. Which is a open source distributed version control system designed for source code management
+- A text editor (e.g Visual Studio Code, Vim, Atom & Sublime.)
+- A web browser (e.g Chrome, Safari, Mozilla Firefox.)
+- Live Server which is a web extension that helps you to live reload feature for dynamic content (PHP, Node.js, ASPNET)
+- Download waves to check project accessibilty
 
-<!--
-Example command:
+### Getting Started
 
-```sh
- gem install rails
-```
- -->
+To get a local copy up and running follow these simple example steps.
 
-### Setup
+- npm
+  ```sh
+  npm install npm@latest -g
+  ```
 
-Clone this repository to your desired folder:
+### Installation
 
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
-
-### Install
-
-Install this project with:
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
-
-### Usage
-
-To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
+1. Clone the repo by running the command
+   ```sh
+    git clone https://github.com/XRichardroidX/JEST-Testing-in-JS.git
+   ```
+2. Open the directory of the project
+   ```sh
+   cd to-do-list-project-with-webpack
+   ```
+3. Open the directory of the src
+   ```sh
+   cd src
+   ```
+4. Open the html file
+   ```sh
+   Click and open the html file
+   ```
+5. Please run the following to render on the browser
+   ```sh
+   npm start
+   ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -204,19 +164,19 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/XRichardroidX)
+- Twitter: [@twitterhandle](https://twitter.com/RichardroiDX)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/richard-oguzie-ibeh-b4a975231)
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/SAINTILLION)
+- Twitter: [@twitterhandle](https://twitter.com/McsaintEbolom)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mcsaint-ebolom-b1033823a)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
+<!-- FUTURE FEATURES
 
 ## 🔭 Future Features <a name="future-features"></a>
 
@@ -226,6 +186,8 @@ Example:
 - [ ] **[new_feature_2]**
 - [ ] **[new_feature_3]**
 
+-->
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
@@ -234,7 +196,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/XRichardroidX/JEST-Testing-in-JS/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
