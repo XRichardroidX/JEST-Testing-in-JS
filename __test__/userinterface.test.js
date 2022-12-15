@@ -20,26 +20,26 @@ describe('UserInterface', () => {
 
   const tasksObject = new Tasks(1, 'Exercise', false);
 
-  it('Add one new task to the to-do list', () => {
+  test('Add one new task to the to-do list', () => {
     UserInterface.addTask(tasksObject);
     const mainChildLength = document.querySelector('main').children.length;
     expect(mainChildLength).toBe(2);
   });
 
-  it('Add another new task to the to-do list', () => {
+  test('Add another new task to the to-do list', () => {
     UserInterface.addTask(tasksObject);
     const mainChildLength = document.querySelector('main').children.length;
     expect(mainChildLength).toBe(3);
   });
 
-  it('Remove one task form list', () => {
+  test('Remove one task form list', () => {
     const itemContainer = document.querySelector('.task-item');
     UserInterface.deleteTask(itemContainer);
     const mainChildLength = document.querySelector('main').children.length;
     expect(mainChildLength).toBe(2);
   });
 
-  it('Edit value on the User Interface', () => {
+  test('Edit value on the User Interface', () => {
     const textarea = document.querySelector('#edit-text');
     textarea.innerHTML = 'change';
     expect(textarea.value).toBe('change');

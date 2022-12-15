@@ -153,6 +153,10 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    npm start
    ```
+4. Test using Jest coverage
+   ```sh
+   npm test
+   ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
